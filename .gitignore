@@ -189,3 +189,4 @@ logging/*
 **/.terraformrc
 **/terraform.rc
 *.terraform.lock.hcl
+*.ipynb
